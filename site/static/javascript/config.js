@@ -1,0 +1,1 @@
+var SubDomain = 'tindamedics'; var SiteID = '045AD6FA-3B09-48C6-B12E-63A01CC1ED06'; var host = 'https://api.eraconnect.net';
